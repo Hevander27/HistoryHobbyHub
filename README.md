@@ -54,7 +54,7 @@ The following **optional** features are implemented:
   - On the post page of the new post, the referenced post is displayed and linked, creating a thread
 - [X] Users can customize the interface
   - e.g., selecting the color scheme or showing the content and image of each post on the home feed
-- [X] Users can add more characterics to their posts
+- [] Users can add more characterics to their posts
   - Users can share and view web videos
   - Users can set flags such as "Question" or "Opinion" while creating a post
   - Users can filter posts by flags on the home feed
