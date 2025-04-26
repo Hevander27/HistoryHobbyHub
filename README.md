@@ -59,7 +59,7 @@ The following **optional** features are implemented:
   - Users can set flags such as "Question" or "Opinion" while creating a post
   - Users can filter posts by flags on the home feed
   - Users can upload images directly from their local machine as an image file
-- [X] Web app displays a loading animation whenever data is being fetched
+- [] Web app displays a loading animation whenever data is being fetched
 
 The following **additional** features are implemented:
 
@@ -70,7 +70,11 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 
-https://github.com/user-attachments/assets/7e55bf2d-339a-4159-b062-14feeba65f5c
+
+
+https://github.com/user-attachments/assets/eee38972-267a-4794-bff0-c74d57ce71cd
+
+
 
 
 <!-- Replace this with whatever GIF tool you used! -->
